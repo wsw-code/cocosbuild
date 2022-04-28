@@ -1,14 +1,19 @@
 {
-  "name": "cocos",
+  "name": "cocosbuild",
   "version": "1.0.0",
   "description": "cocos资源打包成符合FB平台的试玩广告",
-  "main": "index.js",
+  "main": "./bin/index.js",
   "bin": {
-    "cocos": "./bin/index.js"
+    "cob": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "wushengwei",
+  "license": "MIT",
+  "keywords":["cocos","build","inline"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wsw-code/cocosbuild.git"
+  }
 }
