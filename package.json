@@ -11,9 +11,16 @@
   },
   "author": "wushengwei",
   "license": "MIT",
-  "keywords":["cocos","build","inline"],
+  "keywords": [
+    "cocos",
+    "build",
+    "inline"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/wsw-code/cocosbuild.git"
+  },
+  "dependencies": {
+    "commander": "^9.2.0"
   }
 }
