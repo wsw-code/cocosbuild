@@ -1,6 +1,6 @@
 {
   "name": "cocosbuild",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cocos资源打包成符合FB平台的试玩广告",
   "main": "./bin/index.js",
   "bin": {
