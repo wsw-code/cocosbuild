@@ -1,0 +1,14 @@
+{
+  "name": "cocos",
+  "version": "1.0.0",
+  "description": "cocos资源打包成符合FB平台的试玩广告",
+  "main": "index.js",
+  "bin": {
+    "cocos": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
